@@ -13,3 +13,4 @@ int main() {
     printf("GCD: %d\n", gcd(a, b));
     return 0;
 }
+
